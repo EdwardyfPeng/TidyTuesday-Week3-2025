@@ -1,5 +1,5 @@
 # The History of Himalayan Mountaineering Expeditions
-Homework 3 of STAT436 for Spring 2025 in UW-Madison
+Homework 3 of STAT436 for 2025 Spring in UW-Madison
 
 ## Introduction
 
