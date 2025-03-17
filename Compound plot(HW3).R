@@ -136,7 +136,7 @@ compound <- p1/p2/p3 +
   plot_layout(heights = unit(c(8, 8, 8), c('cm', 'cm', 'cm'))) +
   plot_annotation(
     title = "The History of Himalayan Mountaineering Expeditions",
-    subtitle = "In this visualization, we used the dataset from the Himalayan Database from 2020 to 2024. \n First we explored the distribution of height for each mountain range categorized by open status, \n And then we focused on the influence of team size, oxygen use, season on the rate of successful summit.",
+    subtitle = "In this visualization, we used the dataset from the Himalayan Database from 2020 to 2024. \n First we explored the distribution of height for each mountain range categorized by open status. \n And then we focused on the influence of team size, oxygen use, season on the rate of successful summit.",
     caption = "Author: Edward Peng | #TidyTuesday:2025 Week 3 | Source: The Himalayan Database",
     theme = theme(
       plot.title = element_text(size = 18, face = "bold", hjust = 0.5), 
