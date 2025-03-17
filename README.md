@@ -13,6 +13,8 @@ exped_tidy <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience
 peaks_tidy <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-01-21/peaks_tidy.csv')
 ```
 
+The `exped_tidy` data show information about expeditions, such as team size, use of supplemental oxygen, climbing routes and success status. And the `peaks_tidy` data show information about peaks, such as peak height, location, range and open status. 
+
 ## Questions of interest:
 
   • Which mountain range has the highest average peak height and what is the distribution of peak heights for peaks that are open versus those that are not?
