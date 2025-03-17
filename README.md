@@ -1,4 +1,4 @@
-# TidyTuesday-Week3-2025
+# The History of Himalayan Mountaineering Expeditions
 Homework 3 of STAT436 for Spring 2024 in UWMadison
 
 ## Introduction
