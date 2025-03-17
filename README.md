@@ -23,7 +23,7 @@ peaks_tidy <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience
 
 To answer the first question, I made a ridge plot to show the distribution of height for top-5 mountain ranges in mean height, categorized by the open status. **The Kangchen-junga/Simhalila has the highest mean peak height and in general, open peaks seem to have higher mean peak height than those are not open.**
 
-To answer the second question, first I made a dodged bar chart with a line plot to show that larger team size and the use of supplemental oxygen is helpful to summit success. Then
+To answer the second question, first I made a dodged bar chart with a line plot to show that **larger team size and the use of supplemental oxygen is helpful to summit success**. Then
 I made a scatter plot to explore the spatial-temporal pattern of success/failure for top-10 popular peaks. **It is shown that more successes happened in Spring, on the peak of Everest and Lhotse. In winter, most successes happened on Ama Dablam and most failures happen on Manaslu.**
 
 A compound plot was created to integrate the graphs above, using the `patchwork` package in `R`.
