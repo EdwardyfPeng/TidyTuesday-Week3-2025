@@ -3,6 +3,12 @@ Homework 3 of STAT436 for Spring 2024 in UWMadison
 
 The data we use were collected and published by a non-profit organization named **The Himalayan Database**, which details climbing statuses, geographic information of each expeditions and peaks in the Nepal Himalaya from 2020 to 2024. 
 
+The data could be viewed by
+```
+exped_tidy <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-01-21/exped_tidy.csv')
+peaks_tidy <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-01-21/peaks_tidy.csv')
+```
+
 **Questions of interest:**
 
   • Which mountain range has the highest average peak height and what is the distribution of peak heights for peaks that are open versus those that are not?
